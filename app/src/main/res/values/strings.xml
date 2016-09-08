@@ -12,4 +12,5 @@
     <string name="btn_state_loss">State Loss</string>
     <string name="btn_do_it">Do It!</string>
     <string name="btn_do_it_allowing_loss">Do it and loss</string>
+    <string name="btn_cooperation">Cooperation</string>
 </resources>

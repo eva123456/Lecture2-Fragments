@@ -18,7 +18,8 @@
         <activity android:name=".LayoutFragmentActivity" />
         <activity android:name=".TransactionActivity" />
         <activity android:name=".MultiActionActivity" />
-        <activity android:name=".StateLossActivity"></activity>
+        <activity android:name=".StateLossActivity" />
+        <activity android:name=".CooperationActivity"></activity>
     </application>
 
 </manifest>

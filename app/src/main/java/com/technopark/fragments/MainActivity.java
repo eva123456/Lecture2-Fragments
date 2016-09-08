@@ -39,5 +39,12 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(MainActivity.this, StateLossActivity.class));
             }
         });
+
+        findViewById(R.id.btn_cooperation).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(MainActivity.this, CooperationActivity.class));
+            }
+        });
     }
 }
